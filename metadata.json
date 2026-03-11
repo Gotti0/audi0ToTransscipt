@@ -1,0 +1,5 @@
+{
+  "name": "Audio Subtitle Extractor",
+  "description": "Upload audio files, chunk them, and use Gemini API to generate subtitles in SRT format.",
+  "requestFramePermissions": []
+}
